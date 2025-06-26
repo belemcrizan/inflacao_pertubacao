@@ -90,16 +90,17 @@ s
  
 
 
-🖼️ Exemplo de gráfico gerado:
-<img src="figures/power_spectrum_plot.png" width="500" alt="Espectro de potência primordial">
-📚 Referências
+🖼 Exemplo de gráfico gerado:
+![image](https://github.com/user-attachments/assets/0ab9b0cf-1902-4af4-9790-9c70d3bd1624)
+
+ Referências
 D. Baumann, Cosmology (Lecture Notes), 2022
 
 V. Mukhanov, Physical Foundations of Cosmology, Cambridge University Press, 2005
 
 Planck Collaboration, Planck 2018 Results. X. Constraints on Inflation, arXiv:1807.06211
 
-✍️ Autor
+ Autor
 Crizan Belém Ribeiro
 IFT/UNESP
 📧 belemcrizan@gmail.com
