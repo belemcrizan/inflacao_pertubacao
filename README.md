@@ -43,27 +43,28 @@ inflacao_pertubacao/
  Como Executar
 1. Clone o repositório
 bash
-Copiar
-Editar
+
 git clone https://github.com/belemcrizan/inflacao_pertubacao.git
 cd inflacao_pertubacao
+
 2. Crie e ative o ambiente virtual
 bash
-Copiar
-Editar
+
 python -m venv .venv
 .venv\Scripts\activate        # Windows
 # ou
 source .venv/bin/activate     # Linux/macOS
+
 3. Instale as dependências
 bash
-Copiar
-Editar
+
 pip install -r requirements.txt
+
+
 4. Rode os notebooks
 bash
-Copiar
-Editar
+
+
 jupyter lab
 Abra o notebook 03_power_spectrum_analysis.ipynb e execute as células.
 
