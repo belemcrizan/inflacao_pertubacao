@@ -1,0 +1,6 @@
+echo numpy>> requirements.txt
+echo scipy>> requirements.txt
+echo matplotlib>> requirements.txt
+echo jupyterlab>> requirements.txt
+echo sympy>> requirements.txt
+echo getdist>> requirements.txt
